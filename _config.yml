@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiding Liang"
+title                    : "Yiru Wang"
 title_separator          : "-"
-name                     : &name "Zhiding Liang"
-description              : &description "PhD student. Department of Computer science and Engineering, University of Notre Dame"
-url                      : https://zlianghahaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yiru Wang"
+description              : &description "Sophomore student. Finance Major, Krannert School of Management, Purdue University"
+url                      : https://yiruwanghello.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zlianghahaha/zlianghahaha.github.io"
+repository               : "yiruwangHELLO/yiruwangHELLO.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhiding Liang"
-  avatar           : "liang.png" # "jianli.jpg" #
-  bio              : "PhD student in Computer science and Engineering. University of Notre Dame, IN"
-  location         : "South Bend, US"
+  name             : "Yiru Wang"
+  avatar           : "wang.png" # "jianli.jpg" #
+  bio              : "Sophomore student. Finance Major, Krannert School of Management, Purdue University, IN"
+  location         : "West Lafayette, US"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=bsLRScYAAAAJ&hl=en&oi=ao"
-  email            : "zliang5@nd.edu"
+  email            : "wang5721@purdue,edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   # facebook         : "profile.php?id=100008003527316"
   foursquare       :
-  github           : "zlianghahaha"
+  github           : "yiruwangHELLO"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhiding-liang-b11219108/"
+  linkedin         : "https://www.linkedin.com/in/yiru-wang-hahaha0823/"
   orcid            : 
   pinterest        :
   soundcloud       :
