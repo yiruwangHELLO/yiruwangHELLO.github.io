@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Yiru Wang"
-  avatar           : "wang.png" # "jianli.jpg" #
+  avatar           : "wang.jpg" # "jianli.jpg" #
   bio              : "Sophomore student. Finance Major, Krannert School of Management, Purdue University, IN"
   location         : "West Lafayette, US"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=bsLRScYAAAAJ&hl=en&oi=ao"
+  googlescholar    : ""
   email            : "wang5721@purdue,edu"
   uri              : 
   bitbucket        :
@@ -169,18 +169,6 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
