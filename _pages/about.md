@@ -20,12 +20,13 @@ I am still looking for my research direction. My previous research experience in
 
 # News
 
+* My first research paper has been accepted to 60th IEEE/ACM Design Automation Conference (DAC 2023)!!!
 * I will participate the Corporate Project about IT Financial Reporting Visualizations jointly by **Purdue University** and **Inotiv**. 
 * I am happy to share I get married with **Zhiding Liang** on Oct 12th in Las Vegas (officially married) ^-^
 
 
 # Publications
-* Zhiding Liang, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, **Yiru Wang**, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". ([arxiv](https://arxiv.org/pdf/2212.00661.pdf))
+* Zhiding Liang, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, **Yiru Wang**, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". Accepted to 60th IEEE/ACM Design Automation Conference ([DAC2023](https://arxiv.org/pdf/2212.00661.pdf))
 
 
 # Honors and Awards
