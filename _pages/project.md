@@ -14,4 +14,4 @@ author_profile: true
 • Collaborated closely with business partners, providing weekly updates on the project’s progress and
 delivering the final results.
 
-<img src="images/Inotivjobsearchtool.png" alt="Project Poster">
+<img src="../images/Inotivjobsearchtool.png" alt="Project Poster">
