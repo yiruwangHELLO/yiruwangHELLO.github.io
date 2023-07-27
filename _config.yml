@@ -169,7 +169,7 @@ kramdown:
 
 # Collections
 collections:
-  Project:
+  project:
     output: true
     permalink: /:collection/:path/
 
