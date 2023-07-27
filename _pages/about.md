@@ -14,14 +14,24 @@ I am still looking for my research direction. My previous research experience in
 
 # Education
 
-* **Krannert School of Management, Purdue University**. Undergraduate student in Finance. 2022 - 2025 (Expected)
+* **Mitchell E. Daniels, Jr. School of Business, Purdue University**. Undergraduate student in Finance. 2022 - 2025 (Expected)
 * **Indiana University**. Finance transfer to **Purdue**. 2021 - 2022
 
 # Professional Experience
+* **Atlas Capital Investment**. Summer Research Analyst. 2023.06 - 2023.08
 * **The Data Mine, Purdue University**. Undergradaute Data Science Researcher. 2023.01 - now
+
+# Honors and Awards
+* Craig and Carol Kapson Bicentennial Scholarship for Business and Economics. <br>Indiana University. 2022
+* International Student Fee Remission Scholarship. <br>Indiana University. 2022
+* First Prize of Zhejiang Province Aerobics. <br>Zhejiang Province, China. 2016
+
+# Related Experience
+* **QuCS: Quantum Computer Systems Lecture Series**. Undergradate Student Volunteer. 2023.02 - Now
 
 # News
 
+* I am start an internship as Summer Research Analyst at Atlas Capital Investment at Boston!    June.2023
 * My first research paper has been accepted to 60th IEEE/ACM Design Automation Conference (DAC 2023)!!!
 * I will participate the Corporate Project about IT Financial Reporting Visualizations jointly by **Purdue University** and **Inotiv**. 
 * I am happy to share I get married with **Zhiding Liang** on Oct 12th in Las Vegas (officially married) ^-^
@@ -30,10 +40,5 @@ I am still looking for my research direction. My previous research experience in
 # Publications
 * Zhiding Liang, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, **Yiru Wang**, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". Accepted to 60th IEEE/ACM Design Automation Conference ([DAC2023](https://arxiv.org/pdf/2212.00661.pdf))
 
-
-# Honors and Awards
-* Craig and Carol Kapson Bicentennial Scholarship for Business and Economics. <br>Indiana University. 2022
-* International Student Fee Remission Scholarship. <br>Indiana University. 2022
-* First Prize of Zhejiang Province Aerobics. <br>Zhejiang Province, China. 2016
 
 
