@@ -8,6 +8,7 @@ author_profile: true
 * IT Financial Reporting Visualizations, Undergraduate Data Science Researcher for **Inotiv, Inc** Joint with **the Data Mine, Purdue University**
 
 **Project Demo:** [Presentation and Code Demo](https://youtu.be/gfejXTmHCpM)
+
 **Description:** 
 
 • Utilized Python to perform web scraping and collect data from varieties recruitment websites.
