@@ -14,7 +14,7 @@ I am still looking for my research direction. My previous research experience in
 
 # Education
 
-* **Mitchell E. Daniels, Jr. School of Business, Purdue University**. Undergraduate student in Finance. 2022 - 2025 (Expected)
+* **Mitchell E. Daniels, Jr. School of Business, Purdue University**. Undergraduate student in Business Analytics and Information Mangement. 2022 - 2025 (Expected)
 * **Indiana University**. Finance transfer to **Purdue**. 2021 - 2022
 
 # Professional Experience
