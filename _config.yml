@@ -193,10 +193,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _project
   - scope:
       path: ""
-      type: teaching
+      type: project
     values:
       layout: single
       author_profile: true
