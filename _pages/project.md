@@ -4,7 +4,7 @@ permalink: /project/
 author_profile: true
 ---
 
-# Education
+# 2023
 * IT Financial Reporting Visualizations, Undergraduate Data Science Researcher for **Inotiv, Inc** Joint with **the Data Mine, Purdue University**
 
 **Description:** 
