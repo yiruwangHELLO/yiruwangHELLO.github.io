@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Sophomore student in the [Daniels School of Business](https://business.purdue.edu/), [Purdue University](https://www.purdue.edu/?_ga=2.150530550.1905583263.1672936362-888941865.1649998921), majoring in Finance.
+I am currently a Junior student in the [Daniels School of Business](https://business.purdue.edu/), [Purdue University](https://www.purdue.edu/?_ga=2.150530550.1905583263.1672936362-888941865.1649998921), majoring in Finance.
 
 # Research
 I am still looking for my research direction. My previous research experience including game theory for marketing negotiations. And recently I get involved in cutting-edge technology -- Quantum Computing -- which I think potentially can be benefits on Finance Algorithms. I am opening for more research or internship opportunities. 
