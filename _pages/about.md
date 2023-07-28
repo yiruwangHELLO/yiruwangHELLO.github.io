@@ -20,7 +20,7 @@ I am still looking for my research direction. My previous research experience in
 # Professional Experience
 * **Atlas Capital Investment**. Summer Research Analyst. 2023.06 - 2023.08
 * **The Data Mine, Purdue University**. Undergradaute Data Science Researcher. 2023.01 - now
-
+Check the project [IT Financial Reporting Visualizations](_pages\project.md)
 # Honors and Awards
 * Craig and Carol Kapson Bicentennial Scholarship for Business and Economics. <br>Indiana University. 2022
 * International Student Fee Remission Scholarship. <br>Indiana University. 2022
