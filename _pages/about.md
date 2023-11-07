@@ -44,5 +44,3 @@ Check the project [IT Financial Reporting Visualizations](https://yiruwanghello.
 * Zhiding Liang, Zhixin Song, Jinglei Cheng, Zichang He, Ji Liu, Hanrui Wang, Ruiyang Qin, **Yiru Wang**, Song Han, Xuehai Qian, Yiyu Shi, "Hybrid Gate-Pulse Model for Variational Quantum Algorithms". Accepted to 60th IEEE/ACM Design Automation Conference ([DAC2023](https://arxiv.org/pdf/2212.00661.pdf))
 
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8KGfUL_pkV9DNQfD3UyZcaQHl9ii8VeCMgJUzJtERlg&cl=ffffff&w=a"></script>
