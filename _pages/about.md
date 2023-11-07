@@ -10,7 +10,9 @@ redirect_from:
 I am currently a Junior student in the [Daniels School of Business](https://business.purdue.edu/), [Purdue University](https://www.purdue.edu/?_ga=2.150530550.1905583263.1672936362-888941865.1649998921), majoring in Finance.
 
 # Research
-I am still looking for my research direction. My previous research experience including game theory for marketing negotiations. And recently I get involved in cutting-edge technology -- Quantum Computing -- which I think potentially can be benefits on Finance Algorithms. I am opening for more research or internship opportunities. 
+My previous research experience including game theory for marketing negotiations, and I get involved in cutting-edge technology -- Quantum Computing -- which I think potentially can be benefits on Finance Algorithms. My current research interests lies on Return Predictability, Option Pricing, and Machine Learning. 
+
+<font color="red">I’m looking for PhD position starting at FALL 2025, please reach out for any opportunities!</font>
 
 # Education
 
@@ -32,10 +34,10 @@ Check the project [IT Financial Reporting Visualizations](https://yiruwanghello.
 
 # News
 
+* I am start an official Research Assistant position at Mitchell E. Daniels, Jr. School of Business, Purdue University, under guidance of Prof. [Shuaiyu Chen](https://www.shuaiyuchen.com/).   Nov.2023
 * I am start an internship as Summer Research Analyst at Atlas Capital Investment at Boston!    June.2023
 * My first research paper has been accepted to 60th IEEE/ACM Design Automation Conference (DAC 2023)!!!
 * I will participate the Corporate Project about IT Financial Reporting Visualizations jointly by **Purdue University** and **Inotiv**. 
-* I am happy to share I get married with **Zhiding Liang** on Oct 12th in Las Vegas (officially married) ^-^
 
 
 # Publications
